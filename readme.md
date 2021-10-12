@@ -2,7 +2,9 @@
 
 [简体中文](readme_zh.md)
 
-spine runtime version [4.0.x](https://github.com/EsotericSoftware/spine-runtimes/commit/679b1d9c6c87fe46d927191a4581066524935f22)
+[![🚪 Windows Builds](https://github.com/rayxuln/spine-runtime-for-godot/actions/workflows/windows.yml/badge.svg?branch=spine4.0)](https://github.com/rayxuln/spine-runtime-for-godot/actions/workflows/windows.yml)
+
+spine runtime version [4.0.x](https://github.com/EsotericSoftware/spine-runtimes/commit/555c124a4440526ac2b89232e12037563c0e0100)
 
 godot engine version 3.x
 
